@@ -1,0 +1,12 @@
+[package]
+name            = "AbyssalCoreDrill"
+version_number  = "1.1.0"
+website_url     = "https://github.com/YourName/AbyssalCore-Drill"
+description     = "Advanced deep-sea drilling mod for Subnautica 2. New Prawn Suit drill arm, automated drill platforms, 12 rare minerals, and procedural cave systems. The deepest resource mod ever made for Subnautica 2."
+
+[dependencies]
+BepInEx-BepInExPack = ">=6.0.0"
+Subnautica_Modding-Nautilus = ">=1.0.0"
+
+[categories]
+categories = ["Gameplay", "Mods", "Tools", "Crafting"]
