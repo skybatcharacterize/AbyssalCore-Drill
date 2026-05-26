@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AbyssalCore Drill Banner](assets/banner.png)
+![AbyssalCore Drill Banner](https://github.com/user-attachments/assets/d68445c4-a741-41e3-99c2-ec2741558812)
 
 [![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/YourName/AbyssalCoreDrill?style=for-the-badge&logo=thunderstore&logoColor=white&color=00d4ff)](https://thunderstore.io)
 [![Nexus Mods Downloads](https://img.shields.io/badge/Nexus_Mods-Downloads-orange?style=for-the-badge&logo=nexusmods)](https://nexusmods.com)
