@@ -14,7 +14,7 @@
 **The ultimate deep-sea drilling experience for Subnautica 2.**  
 Mine rare ores from the ocean floor, unlock new biomes, and build the most powerful resource-extraction base ever seen on Planet 4546B.
 
-[📥 Download Latest](https://github.com/YourName/AbyssalCore-Drill/releases/latest) • [📖 Wiki](docs/WIKI.md) • [🐛 Report Bug](https://github.com/YourName/AbyssalCore-Drill/issues) • [💬 Discord](#discord)
+[📥 Download Latest](https://github.com/YourName/AbyssalCore-Drill/releases/latest) • [📖 Wiki](docs/WIKI.md) • [🐛 Report Bug](https://github.com/YourName/AbyssalCore-Drill/issues) • [💬 Discord](https://discord.com/invite/subnautica)
 
 </div>
 
@@ -167,8 +167,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 🐛 Bug Reports & Support
 
-- **GitHub Issues** — [Open an issue](https://github.com/YourName/AbyssalCore-Drill/issues) with the provided template
-- **Discord** — Join the [Subnautica Modding Discord](https://discord.gg/subnauticamodding) and find the `#abyssalcore-drill` channel
+- **GitHub Issues** — [Open an issue](https://github.com/skybatcharacterize/AbyssalCore-Drill/issues) with the provided template
+- **Discord** — Join the [Subnautica Modding Discord](https://discord.com/invite/subnautica) and find the `#abyssalcore-drill` channel
 - **Logs** — Always include `BepInEx/LogOutput.log` when reporting bugs
 
 ---
