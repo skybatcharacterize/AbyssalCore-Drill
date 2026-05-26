@@ -39,7 +39,7 @@ Mine rare ores from the ocean floor, unlock new biomes, and build the most power
 
 | Deep Drill Platform | AbyssalCore Drill Arm | New Minerals |
 |---|---|---|
-| ![Platform](assets/screenshot_platform.png) | ![Drill Arm](assets/screenshot_arm.png) | ![Minerals](assets/screenshot_minerals.png) |
+| ![Platform](https://github.com/user-attachments/assets/259c894f-f711-45c8-8954-92594c7e83fe) | ![Drill Arm](https://github.com/user-attachments/assets/5bde354d-d919-4b89-8d52-506a50092fa0) | ![Minerals](https://github.com/user-attachments/assets/e14f22df-0818-4673-9b6e-0a8143a579c9) |
 
 ---
 
